@@ -3,11 +3,11 @@ title: "Om oss"
 date: 2019-05-20T12:14:34+06:00
 # description: "This is meta description."
 author : "Henry S. Sjøen"
-authorImage : "images/about/author.jpg"
+authorImage : "images/team/Henry.jpg"
 authorSignature : "images/about/signature.png"
 ---
 
-# **Kodekameratene** er et *kode-kollektiv*.
+# **Kodekameratene**; et *kode-kollektiv*.
 Dette er en arena hvor vi kan vokse sammen og lære av hverandre mens vi jobber med løsninger som er i bruk av tusenvis av mennesker.
 
 ***tldr;*** Her kan du få bidra i relevant praksis som ser bra ut på CV-en.
