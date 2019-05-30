@@ -1,7 +1,9 @@
 # banner
 banner:
   title: "Hei, vi er Kodekameratene."
-  # socialLinks:
+  socialLinks:
+    - icon: "ti-github"
+      url: "https://github.com/kodekameratene"
   #   - icon: "ti-facebook"
   #     URL: "#"
 
@@ -17,7 +19,7 @@ banner:
 # about
 about:
   enable: true
-  content: "**Kodekameratene**; et *kode-kollektiv*.
+  content: "**Kode-kameratene**; et *kode-kollektiv*.
 Dette er en arena hvor vi kan vokse sammen og lære av hverandre mens vi jobber med løsninger som er i bruk av tusenvis av mennesker."
   button:
     btnText: "Les mer"
@@ -66,7 +68,7 @@ experience:
 education:
   enable: false
   item:
-    - title: "Marters in UX Design"
+    - title: "Masters in UX Design"
       year: "2006"
       academy: "Masassusets Institute of Technology"
 
@@ -141,37 +143,22 @@ testimonial:
 
 # client slider
 clientSlider:
-  enable: false
+  enable: true
   item:
-    - logo: "images/clients-logo/client-logo-1.png"
-      URL: "#"
+    - logo: "images/clients-logo/impuls.png"
+      URL: "http://impulsweb.no"
 
-    - logo: "images/clients-logo/client-logo-2.png"
-      URL: "#"
+    - logo: "images/clients-logo/oase.png"
+      URL: "https://oase.no"
 
-    - logo: "images/clients-logo/client-logo-3.png"
-      URL: "#"
+    - logo: "images/clients-logo/imi-kirken.png"
+      URL: "http://imikirken.no"
 
-    - logo: "images/clients-logo/client-logo-4.png"
-      URL: "#"
+    - logo: "images/clients-logo/vhkf.svg"
+      URL: "https://vhkf.no"
 
-    - logo: "images/clients-logo/client-logo-5.png"
-      URL: "#"
 
-    - logo: "images/clients-logo/client-logo-1.png"
-      URL: "#"
 
-    - logo: "images/clients-logo/client-logo-2.png"
-      URL: "#"
-
-    - logo: "images/clients-logo/client-logo-3.png"
-      URL: "#"
-
-    - logo: "images/clients-logo/client-logo-4.png"
-      URL: "#"
-
-    - logo: "images/clients-logo/client-logo-5.png"
-      URL: "#"
 
 # blog
 blog:
