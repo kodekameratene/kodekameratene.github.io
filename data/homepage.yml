@@ -1,6 +1,6 @@
 # banner
 banner:
-  title: "Hei, vi er Kodekameratene."
+  title: "Hei, vi er Kode-Kameratene."
   socialLinks:
     - icon: "ti-github"
       url: "https://github.com/kodekameratene"
