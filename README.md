@@ -1,7 +1,7 @@
 # kodekameratene.github.io
 Nettside med info om oss og våre prosjekter.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bd2c3021-9324-431d-af93-6f6328bf6360/deploy-status)](https://app.netlify.com/sites/happy-visvesvaraya-0acf3c/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bd2c3021-9324-431d-af93-6f6328bf6360/deploy-status)](https://app.netlify.com/sites/koka/deploys)
 
 # **Kodekameratene** er et *kode-kollektiv*.
 Dette er en arena hvor vi kan vokse sammen og lære av hverandre mens vi jobber med løsninger som er i bruk av tusenvis av mennesker.
