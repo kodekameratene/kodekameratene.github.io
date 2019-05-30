@@ -1,6 +1,9 @@
 # kodekameratene.github.io
 Nettside med info om oss og våre prosjekter.
 
+Gå til [koka.no](https://koka.no) for å se nettsiden. 
+Denne readme-filen finner du også hostet via github pages her under domenet [kodekameratene.github.io](https://kodekameratene.github.io)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bd2c3021-9324-431d-af93-6f6328bf6360/deploy-status)](https://app.netlify.com/sites/koka/deploys)
 
 # **Kodekameratene** er et *kode-kollektiv*.
