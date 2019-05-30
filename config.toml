@@ -59,7 +59,7 @@ googleAnalitycsID = "Your ID"
 
   # Preloader
   [params.preloader]
-  enable = true
+  enable = false
 
   [params.contact]
   enable = true
