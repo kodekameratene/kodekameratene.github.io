@@ -42,4 +42,4 @@ Men Toralf er fullt og helt sin egen person, en real kompis med god estetisk san
 Takk for at dere begge er med meg på dette eventyret!
 
 
-![Underskrift av Henry](/images/about/signature.png)
+![Signert av Henry](/images/about/signature.png)

@@ -52,8 +52,8 @@ summaryLength = "10"
 logo = "images/logo.png"
 home = "Hjem"
 # Meta data
-description = "This is meta description"
 author = "Kodekameratene"
+description = "Kodekameratene**; et kode-kollektiv."
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 
