@@ -70,7 +70,7 @@ education:
   item:
     - title: "Masters in UX Design"
       year: "2006"
-      academy: "Masassusets Institute of Technology"
+      academy: "Massachusetts Institute of Technology"
 
     - title: "Honours in Fine Arts"
       year: "2004"
@@ -157,9 +157,6 @@ clientSlider:
     - logo: "images/clients-logo/vhkf.svg"
       URL: "https://vhkf.no"
 
-
-
-
 # blog
 blog:
-  enable: false
+  enable: true
