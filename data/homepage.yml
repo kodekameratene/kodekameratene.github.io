@@ -148,13 +148,13 @@ clientSlider:
     - logo: "images/clients-logo/impuls.png"
       URL: "http://impulsweb.no"
 
-    - logo: "images/clients-logo/oase.png"
+    - logo: "images/clients-logo/oase_pos.png"
       URL: "https://oase.no"
 
     - logo: "images/clients-logo/imi-kirken.png"
       URL: "http://imikirken.no"
 
-    - logo: "images/clients-logo/vhkf.svg"
+    - logo: "images/clients-logo/vhkf.png"
       URL: "https://vhkf.no"
 
 # blog
