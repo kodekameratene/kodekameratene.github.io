@@ -2,13 +2,13 @@
 Nettside med info om oss og våre prosjekter.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bd2c3021-9324-431d-af93-6f6328bf6360/deploy-status)](https://app.netlify.com/sites/koka/deploys)
-[![Discord](https://img.shields.io/static/v1.svg?label=Discord&logo=discord&message=Chat_med_oss!)](https://discord.gg/cPCeQFx)
-
+[![Discord](https://img.shields.io/static/v1.svg?label=Discord&logo=discord&message=Chat%20med%20oss!)](https://discord.gg/cPCeQFx)
 
 Gå til [koka.no](https://koka.no) for å se nettsiden. 
-Denne readme-filen finner du også hostet via github pages her under domenet [kodekameratene.github.io](https://kodekameratene.github.io)
 
-Vi har også en Discord server hvor du kan komme i kontakt med oss: https://discord.gg/cPCeQFx
+Denne readme-filen finner du også hostet via github pages under domenet [kodekameratene.github.io](https://kodekameratene.github.io)
+
+Vi har også en Discord server hvor du kan komme i kontakt med oss: [https://discord.gg/cPCeQFx](https://discord.gg/cPCeQFx)
 
 
 # **Kodekameratene** er et *kode-kollektiv*.
