@@ -38,6 +38,11 @@ summaryLength = "10"
    URL = "blog"
    weight = 3
 
+ [[menu.main]]
+   name = "Chat"
+   URL = "https://discord.gg/cPCeQFx"
+   weight = 4
+
   # [[menu.main]]
   # name = "Portfolio"
   # URL = "portfolio"
