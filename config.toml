@@ -68,9 +68,9 @@ googleAnalitycsID = "UA-141115558-1"
 
   [params.contact]
   enable = true
-  formAction = "https://formspree.io/henry@kodekameraten.no" #contact form works with formspree.io
+  formAction = "https://formspree.io/hei@koka.no" #contact form works with formspree.io
 
   [params.footer]
-  email = "henry@kodekameraten.no"
+  email = "hei@koka.no"
   # phone = "+880 2544 658 256"
   address = "Stavanger & Trondheim"
